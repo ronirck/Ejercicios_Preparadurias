@@ -1,0 +1,8 @@
+--- Informe Climático Diario ---
+Total de Días Registrados: 10
+Temperatura Promedio: 23.12 °C
+Días con Temperatura Alta (>= 28°C): 3
+Días con Temperatura Baja (<= 15°C): 2
+--- Detalles de Temperaturas Extremas ---
+Temperatura Más Alta: 31.20 °C (Día 5)
+Temperatura Más Baja: 12.00 °C (Día 7)
