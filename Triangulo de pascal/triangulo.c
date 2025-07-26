@@ -1,18 +1,26 @@
+// Dado un número entero n como entrada,
+// genere y muestre en la terminal las
+// primeras n líneas del Triángulo de Pascal.
+
 #include <stdio.h> // Incluir la biblioteca estándar de entrada/salida
 
 // Función para imprimir el Triángulo de Pascal
-void imprimirTrianguloPascal(int filas) {
+void imprimirTrianguloPascal(int filas)
+{
     // Bucle para iterar sobre cada fila
-    for (int i = 0; i < filas; i++) {
+    for (int i = 0; i < filas; i++)
+    {
         int coeficiente = 1; // Coeficiente inicial para cada fila
 
         // Imprimir espacios para centrar el triángulo
-        for (int j = 0; j < filas - i - 1; j++) {
+        for (int j = 0; j < filas - i - 1; j++)
+        {
             printf(" "); // Imprimir un espacio
         }
 
         // Bucle para calcular y mostrar los coeficientes en la fila actual
-        for (int j = 0; j <= i; j++) {
+        for (int j = 0; j <= i; j++)
+        {
             printf("%d ", coeficiente); // Imprimir el coeficiente actual
             // Calcular el siguiente coeficiente usando la fórmula del coeficiente binomial
             coeficiente = coeficiente * (i - j) / (j + 1);
@@ -22,7 +30,8 @@ void imprimirTrianguloPascal(int filas) {
 }
 
 // Función principal del programa
-int main() {
+int main()
+{
     int filas; // Variable para almacenar el número de filas
 
     // Solicitar al usuario el número de filas del Triángulo de Pascal
