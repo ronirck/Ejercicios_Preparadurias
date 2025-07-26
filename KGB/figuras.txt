@@ -1,0 +1,160 @@
+Valor de n: 1
+Patron de X:
+*
+
+Patron de O:
+*
+
+Valor de n: 2
+Patron de X:
+**
+**
+
+Patron de O:
+**
+**
+
+Valor de n: 3
+Patron de X:
+* *
+ *
+* *
+
+Patron de O:
+ * 
+* *
+ * 
+
+Valor de n: 4
+Patron de X:
+*  *
+ **
+ **
+*  *
+
+Patron de O:
+ ** 
+*  *
+*  *
+ ** 
+
+Valor de n: 5
+Patron de X:
+*   *
+ * *
+  *
+ * *
+*   *
+
+Patron de O:
+  *  
+ * * 
+*   *
+ * * 
+  *  
+
+Valor de n: 6
+Patron de X:
+*    *
+ *  *
+  **
+  **
+ *  *
+*    *
+
+Patron de O:
+  **  
+ *  * 
+*    *
+*    *
+ *  * 
+  **  
+
+Valor de n: 7
+Patron de X:
+*     *
+ *   *
+  * *
+   *
+  * *
+ *   *
+*     *
+
+Patron de O:
+   *   
+  * *  
+ *   * 
+*     *
+ *   * 
+  * *  
+   *   
+
+Valor de n: 8
+Patron de X:
+*      *
+ *    *
+  *  *
+   **
+   **
+  *  *
+ *    *
+*      *
+
+Patron de O:
+   **   
+  *  *  
+ *    * 
+*      *
+*      *
+ *    * 
+  *  *  
+   **   
+
+Valor de n: 9
+Patron de X:
+*       *
+ *     *
+  *   *
+   * *
+    *
+   * *
+  *   *
+ *     *
+*       *
+
+Patron de O:
+    *    
+   * *   
+  *   *  
+ *     * 
+*       *
+ *     * 
+  *   *  
+   * *   
+    *    
+
+Valor de n: 10
+Patron de X:
+*        *
+ *      *
+  *    *
+   *  *
+    **
+    **
+   *  *
+  *    *
+ *      *
+*        *
+
+Patron de O:
+    **    
+   *  *   
+  *    *  
+ *      * 
+*        *
+*        *
+ *      * 
+  *    *  
+   *  *   
+    **    
+

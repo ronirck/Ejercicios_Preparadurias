@@ -1,0 +1,4 @@
+canal operativo
+0100
+el conacto fue establecido
+1100

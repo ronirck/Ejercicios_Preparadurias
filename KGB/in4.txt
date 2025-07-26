@@ -1,0 +1,6 @@
+canal operativo
+0100
+la evacuacion fue exitosa
+1100
+hay riesgo de emboscada
+1111
